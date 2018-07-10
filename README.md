@@ -1,4 +1,4 @@
-<img width="432" height=”600” alt="screen shot 2018-07-09 at 11 51 38 pm" src="https://user-images.githubusercontent.com/41017424/42489899-5ba98dcc-83d3-11e8-9298-71d6cf4a62ae.png">
+<img width="420" height=”600” alt="screen shot 2018-07-09 at 11 51 38 pm" src="https://user-images.githubusercontent.com/41017424/42489899-5ba98dcc-83d3-11e8-9298-71d6cf4a62ae.png">
 
 <img width="432" height=”600” alt="screen shot 2018-07-09 at 11 51 54 pm" src="https://user-images.githubusercontent.com/41017424/42489900-5cbfde5a-83d3-11e8-9c4e-cbff1e698ca9.png">
 
